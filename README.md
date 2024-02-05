@@ -1,3 +1,10 @@
+# This project was created with react and is deployed via GitHub Pages
+
+<img width="1124" alt="Screenshot 2024-02-05 at 22 05 26" src="https://github.com/j4sm1ne96/react-blogpage/assets/83115753/230e0e18-013d-4477-9fcb-3bdcb5fd48e3">
+
+To see live deployment visit: https://j4sm1ne96.github.io/react-blogpage/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
